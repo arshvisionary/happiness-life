@@ -2,7 +2,7 @@
 
 [Click here to view the data story](https://p-adema.github.io/info-vis/)
 
-# Information Visualisation: Gender Pay Gap
+# TEST
 
 Jupyter Book visualising the gender pay gap for software developers,
 using the Stack Overflow Annual Developer Survey data. For more details
